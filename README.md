@@ -1,9 +1,9 @@
-# flutter_project_app
+# Flutter Mobile Programming
 
-A new Flutter project.
-
+Aplikasi pencatatan skor pertandingan 2 pemain menggunakan Flutter.
 
 ## Preview
 
-![Score Match App](images/app-preview.png)
-![Score Match](images/app-preview(2).png)
+![Scoreboard](images/app-preview.png)
+
+![Score Match](images/app-preview%20%282%29.png)
